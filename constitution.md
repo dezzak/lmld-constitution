@@ -67,7 +67,7 @@
       (ii) maintain a membership register and provide Branch and Local Party Officers with lists of members as necessary under this Constitution;
       (iii) hold and maintain the EARS/campaigning data of the local party; and
       (iv) ensure compliance with data protection legislation.
-    (f)	The Membership Development Officer - to:
+    (f) The Membership Development Officer - to:
       (i) organise and run membership recruitment and renewal campaigns
       (ii) ensure that the Local Party has a wide a range of social and political activities to facilitate member retention
     The Secretary shall not later than 2nd January and within seven days after any subsequent change notify the names and addresses of all Officers to the Regional Party and to the Chief Executive of the Federal Party
