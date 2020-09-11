@@ -7,13 +7,13 @@
 
 ### 2. Definitions
   2.1. In this Constitution:
-    "the Local Party" means the Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies);
-    "the Party Constitution" means the Constitution of the Federal Party and of the Liberal Democrats in England;
-    "the Regional Party" means the North-West Region Liberal Democrats;
-    "the Constituencies" means the Parliamentary Constituencies of Lancaster and Fleetwood and Morecambe and Lunesdale;
-    "Party’s Youth and Student Organisation" means the Specified Associated Organisation representing youth and students;
-    "Majority" at any meeting means majority of those present and voting; and
-    "Executive Committee" means the executive committee of the Local Party.
+    * "the Local Party" means the Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies);
+    * "the Party Constitution" means the Constitution of the Federal Party and of the Liberal Democrats in England;
+    * "the Regional Party" means the North-West Region Liberal Democrats;
+    * "the Constituencies" means the Parliamentary Constituencies of Lancaster and Fleetwood and Morecambe and Lunesdale;
+    * "Party’s Youth and Student Organisation" means the Specified Associated Organisation representing youth and students;
+    * "Majority" at any meeting means majority of those present and voting; and
+    * "Executive Committee" means the executive committee of the Local Party.
 
 ### 3. Objects
   3.1. The objects of the Local Party shall be:
@@ -22,7 +22,7 @@
       (i) to secure the election of Liberal Democrats as Members of Parliament, UK Members of the European Parliament, members of regional, local and other elected public authorities and other public office;
       (ii) to admit and actively recruit new members to the Party, and encourage existing members to renew their membership;
       (iii) to participate in the formulation of the policy of the Party;
-      (iv)  to be recognised as a Local Party; to play a full role in the democratic processes of the Party; and to send representatives, in accordance with the constitutions of the bodies concerned, to Party bodies;
+      (iv) to be recognised as a Local Party; to play a full role in the democratic processes of the Party; and to send representatives, in accordance with the constitutions of the bodies concerned, to Party bodies;
       (v) to play a full part in the campaigning activities of the Party at all levels;
       (vi) to campaign and work with local people to achieve the objectives set out in the Preamble to the Party Constitution;
       (vii) to help all local people, without regard to party or any other factor, to secure their rights and to protect them against oppression; and
@@ -39,7 +39,7 @@
     (b) on enrolment through the Party’s Youth and Student Organisation giving an address within the Constituency; or
     (c) if already members of the Party, on re-registration as a member of the Local Party.
     Members of the Local Party who are also members of the Party’s Youth and Student Organisation may be restrained under the Party Constitution from exercising certain rights as members of the Local Party if they exercise equivalent rights as members of the Youth and Student Organisation.
-  4.4.  
+  4.4.
     (a) An applicant shall become a member on acceptance by the enrolling body, payment of the requisite subscription and registration on the register kept by the Party in England.
     (b) An application shall be deemed accepted if not rejected in accordance with the Membership Rules.
     (c) Initial membership shall run for one year from the quarter day (last day of March, June, September or December) following commencement.
@@ -47,7 +47,7 @@
     (e) Members who do not renew their subscriptions before the end of the 3 months period must reapply for membership.
   4.5. The Executive Committee may refuse membership to, or revoke the membership of, any person, on the grounds provided by the Party Constitution, using the procedure defined in the Membership Rules of the Liberal Democrats in England.
   4.6. A member of the Local Party who ceases to be eligible under Section 4.2 (a) may retain membership of the Local Party with the consent of the Executive Committee.
- 
+
 ### 5. Officers and Executive Committee
   5.1. The Officers of the Local Party shall be the Chair, [Vice-Chair,] Secretary, Treasurer, Data Officer, Membership Development Officer and Public Relations Officer. Their duties shall include:
     (a) The Chair – to
@@ -139,7 +139,7 @@
     (c) rules for the calling and conduct of an Annual General Meeting and other General Meetings of the members;
     (d) the names and addresses of the Officers, Ordinary Members and representatives to be notified to, and minutes of General and Committee Meetings to be supplied to the Secretary of the Local Party.
   The Constitution shall be in the form of the Model Constitution for Branches appended to this Constitution. A branch may adopt a constitution which is not wholly in the model form but any such constitution, or any changes to it, shall not take effect until the Executive Committee of the Local Party accepts its conformity with the Party Constitution and with this Constitution.
-  8.5.  
+  8.5.
     (a) The Officers of the Branch shall include a Treasurer. The Branch’s accounting period shall be the same as that of the Local Party.
     (b) The Branch Treasurer shall keep, maintain for six years, and pass to his or her successor accounting records which shall be available for inspection in accordance with the Political Parties, Elections and Referendums Act 2000.
     (c) The Branch Treasurer shall ensure that no donation of over £200 is accepted except from a permissible donor and shall keep records and submit donations reports to the Treasurer of the Local Party.
@@ -237,7 +237,7 @@
   7.2. The business of the AGM shall be:
     (a) To receive reports from all the Officers on their activities in last year;
     (b) To receive reports from councillors representing wards or divisions falling wholly or partially within the Branch area (if such people exist);
-    (c) 
+    (c)
       (i) [To receive a final report;]
       (ii) [To consider, and if thought fit adopt, the accounts for the previous financial year, together with an independent report on those accounts and the budget for the current financial year;]
     (d) [To appoint a person(s) to produce an independent report on the accounts for the current financial year][To confirm or reject the appointment recommended by the Local Party of a person(s) to produce an independent report on the accounts];
@@ -265,7 +265,7 @@
   8.6. During the selection of [Mayor, Greater London Authority,] Parliamentary and European candidates, the Branch and its members shall comply with the relevant selection rules.
 
 ### 9. Finance
-  9.1. 
+  9.1.
      (a) [The finances of the Branch shall be held by the Treasurer of the Local Party [as part of the funds of the Local Party] and subject to the constitution of the Local Party.]
      (b) [The Branch’s accounting period shall be the same as that of the Local Party.]
   9.2. The Treasurer shall keep, maintain for six years, and pass to his or her successor accounting records which shall be available for inspection in accordance with the Political Parties, Elections and Referendums Act 2000.
