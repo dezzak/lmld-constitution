@@ -7,57 +7,52 @@
 1.2. The area of the Local Party shall be the Lancaster and Fleetwood Parliamentary Constituency and the Morecambe and Lunesdale Parliamentary Constituency.
 
 ### 2. Definitions
-       2.1. In this Constitution:
-            * "the Local Party" means the Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies);
-            * "the Party Constitution" means the Constitution of the Federal Party and of the Liberal Democrats in England;
-            * "the Regional Party" means the North-West Region Liberal Democrats;
-            * "the Constituencies" means the Parliamentary Constituencies of Lancaster and Fleetwood and Morecambe and Lunesdale;
-            * "Party's Youth and Student Organisation" means the Specified Associated Organisation representing youth and students;
-            * "Majority" at any meeting means majority of those present and voting; and
-            * "Executive Committee" means the executive committee of the Local Party.
+2.1. In this Constitution:
+     * "the Local Party" means the Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies);
+     * "the Party Constitution" means the Constitution of the Federal Party and of the Liberal Democrats in England;
+     * "the Regional Party" means the North-West Region Liberal Democrats;
+     * "the Constituencies" means the Parliamentary Constituencies of Lancaster and Fleetwood and Morecambe and Lunesdale;
+     * "Party's Youth and Student Organisation" means the Specified Associated Organisation representing youth and students;
+     * "Majority" at any meeting means majority of those present and voting; and
+     * "Executive Committee" means the executive committee of the Local Party.
 
 ### 3. Objects
-  3.1. The objects of the Local Party shall be:
-
-    (a) be the successor within its area to the Lancaster and Fleetwood Liberal Democrats and to the Morecambe and Lunesdale Liberal Democrats; and
-
-    (b) to promote and support the values and objects of the Party in the Constituencies and in particular through its members:
-
-      (i) to secure the election of Liberal Democrats as Members of Parliament, UK Members of the European Parliament, members of regional, local and other elected public authorities and other public office;
-
-      (ii) to admit and actively recruit new members to the Party, and encourage existing members to renew their membership;
-
-      (iii) to participate in the formulation of the policy of the Party;
-
-      (iv) to be recognised as a Local Party; to play a full role in the democratic processes of the Party; and to send representatives, in accordance with the constitutions of the bodies concerned, to Party bodies;
-
-      (v) to play a full part in the campaigning activities of the Party at all levels;
-
-      (vi) to campaign and work with local people to achieve the objectives set out in the Preamble to the Party Constitution;
-
-      (vii) to help all local people, without regard to party or any other factor, to secure their rights and to protect them against oppression; and
-
-      (viii) to promote diversity of cultures within the Party and to represent the interests of under-represented groups in the locality.
+3.1. The objects of the Local Party shall be:
+     (a) be the successor within its area to the Lancaster and Fleetwood Liberal Democrats and to the Morecambe and Lunesdale Liberal Democrats; and
+     (b) to promote and support the values and objects of the Party in the Constituencies and in particular through its members:
+         (i) to secure the election of Liberal Democrats as Members of Parliament, UK Members of the European Parliament, members of regional, local and other elected public authorities and other public office;
+         (ii) to admit and actively recruit new members to the Party, and encourage existing members to renew their membership;
+         (iii) to participate in the formulation of the policy of the Party;
+         (iv) to be recognised as a Local Party; to play a full role in the democratic processes of the Party; and to send representatives, in accordance with the constitutions of the bodies concerned, to Party bodies;
+         (v) to play a full part in the campaigning activities of the Party at all levels;
+         (vi) to campaign and work with local people to achieve the objectives set out in the Preamble to the Party Constitution;
+         (vii) to help all local people, without regard to party or any other factor, to secure their rights and to protect them against oppression; and
+         (viii) to promote diversity of cultures within the Party and to represent the interests of under-represented groups in the locality.
 
 ### 4. Membership
-  4.1. The Local Party shall administer membership in accordance with the Membership Rules of the Liberal Democrats in England.
-  4.2. All persons shall be eligible to join the Local Party if they agree with the fundamental values and objectives of the party; and
-    (a) they live, work or study within the area of the Local Party, or
-    (b) if not eligible under Section 4.2 (a) they acquire membership with the consent of the Local Party Executive Committee, or
-    (c) they are an MP, MEP, prospective Westminster or European parliamentary candidate or member of a local authority for a seat wholly or partly within the area of the Local Party.
-  4.3. Eligible persons shall become members of the Local Party:
-    (a) on enrolment through the Local Party; or
-    (b) on enrolment through the Party's Youth and Student Organisation giving an address within the Constituency; or
-    (c) if already members of the Party, on re-registration as a member of the Local Party.
-    Members of the Local Party who are also members of the Party's Youth and Student Organisation may be restrained under the Party Constitution from exercising certain rights as members of the Local Party if they exercise equivalent rights as members of the Youth and Student Organisation.
-  4.4.
-    (a) An applicant shall become a member on acceptance by the enrolling body, payment of the requisite subscription and registration on the register kept by the Party in England.
-    (b) An application shall be deemed accepted if not rejected in accordance with the Membership Rules.
-    (c) Initial membership shall run for one year from the quarter day (last day of March, June, September or December) following commencement.
-    (d) Members whose subscriptions are due shall receive notices of meetings and elections for a further 3 months.
-    (e) Members who do not renew their subscriptions before the end of the 3 months period must reapply for membership.
-  4.5. The Executive Committee may refuse membership to, or revoke the membership of, any person, on the grounds provided by the Party Constitution, using the procedure defined in the Membership Rules of the Liberal Democrats in England.
-  4.6. A member of the Local Party who ceases to be eligible under Section 4.2 (a) may retain membership of the Local Party with the consent of the Executive Committee.
+4.1. The Local Party shall administer membership in accordance with the Membership Rules of the Liberal Democrats in England.
+
+4.2. All persons shall be eligible to join the Local Party if they agree with the fundamental values and objectives of the party; and
+     (a) they live, work or study within the area of the Local Party, or
+     (b) if not eligible under Section 4.2 (a) they acquire membership with the consent of the Local Party Executive Committee, or
+     (c) they are an MP, MEP, prospective Westminster or European parliamentary candidate or member of a local authority for a seat wholly or partly within the area of the Local Party.
+
+4.3. Eligible persons shall become members of the Local Party:
+     (a) on enrolment through the Local Party; or
+     (b) on enrolment through the Party's Youth and Student Organisation giving an address within the Constituency; or
+     (c) if already members of the Party, on re-registration as a member of the Local Party.
+     Members of the Local Party who are also members of the Party's Youth and Student Organisation may be restrained under the Party Constitution from exercising certain rights as members of the Local Party if they exercise equivalent rights as members of the Youth and Student Organisation.
+
+4.4.
+     (a) An applicant shall become a member on acceptance by the enrolling body, payment of the requisite subscription and registration on the register kept by the Party in England.
+     (b) An application shall be deemed accepted if not rejected in accordance with the Membership Rules.
+     (c) Initial membership shall run for one year from the quarter day (last day of March, June, September or December) following commencement.
+     (d) Members whose subscriptions are due shall receive notices of meetings and elections for a further 3 months.
+     (e) Members who do not renew their subscriptions before the end of the 3 months period must reapply for membership.
+
+4.5. The Executive Committee may refuse membership to, or revoke the membership of, any person, on the grounds provided by the Party Constitution, using the procedure defined in the Membership Rules of the Liberal Democrats in England.
+
+4.6. A member of the Local Party who ceases to be eligible under Section 4.2 (a) may retain membership of the Local Party with the consent of the Executive Committee.
 
 ### 5. Officers and Executive Committee
   5.1. The Officers of the Local Party shall be the Chair, [Vice-Chair,] Secretary, Treasurer, Data Officer, Membership Development Officer and Public Relations Officer. Their duties shall include:
