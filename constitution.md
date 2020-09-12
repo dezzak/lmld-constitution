@@ -20,24 +20,24 @@
 ### 3. Objects
 3.1. The objects of the Local Party shall be:
 
-	 (a) be the successor within its area to the Lancaster and Fleetwood Liberal Democrats and to the Morecambe and Lunesdale Liberal Democrats; and
+(a) be the successor within its area to the Lancaster and Fleetwood Liberal Democrats and to the Morecambe and Lunesdale Liberal Democrats; and
 
-	 (b) to promote and support the values and objects of the Party in the Constituencies and in particular through its members:
+(b) to promote and support the values and objects of the Party in the Constituencies and in particular through its members:
 
-		 (i) to secure the election of Liberal Democrats as Members of Parliament, UK Members of the European Parliament, members of regional, local and other elected public authorities and other public office;
-		 (ii) to admit and actively recruit new members to the Party, and encourage existing members to renew their membership;
+	 (i) to secure the election of Liberal Democrats as Members of Parliament, UK Members of the European Parliament, members of regional, local and other elected public authorities and other public office;
+	 (ii) to admit and actively recruit new members to the Party, and encourage existing members to renew their membership;
 
-		 (iii) to participate in the formulation of the policy of the Party;
+	 (iii) to participate in the formulation of the policy of the Party;
 
-         (iv) to be recognised as a Local Party; to play a full role in the democratic processes of the Party; and to send representatives, in accordance with the constitutions of the bodies concerned, to Party bodies;
+(iv) to be recognised as a Local Party; to play a full role in the democratic processes of the Party; and to send representatives, in accordance with the constitutions of the bodies concerned, to Party bodies;
 
-         (v) to play a full part in the campaigning activities of the Party at all levels;
+(v) to play a full part in the campaigning activities of the Party at all levels;
 
-         (vi) to campaign and work with local people to achieve the objectives set out in the Preamble to the Party Constitution;
+(vi) to campaign and work with local people to achieve the objectives set out in the Preamble to the Party Constitution;
 
-         (vii) to help all local people, without regard to party or any other factor, to secure their rights and to protect them against oppression; and
+(vii) to help all local people, without regard to party or any other factor, to secure their rights and to protect them against oppression; and
 
-         (viii) to promote diversity of cultures within the Party and to represent the interests of under-represented groups in the locality.
+(viii) to promote diversity of cultures within the Party and to represent the interests of under-represented groups in the locality.
 
 ### 4. Membership
 4.1. The Local Party shall administer membership in accordance with the Membership Rules of the Liberal Democrats in England.
