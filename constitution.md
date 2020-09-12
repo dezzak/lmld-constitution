@@ -79,7 +79,8 @@ Members of the Local Party who are also members of the Party's Youth and Student
 
 ### 5. Officers and Executive Committee
 
-5.1. The Officers of the Local Party shall be the Chair, [Vice-Chair,] Secretary, Treasurer, Data Officer, Membership Development Officer and Public Relations Officer. Their duties shall include:
+5.1. The Officers of the Local Party shall be the Chair, [Vice-Chair,] Secretary, Treasurer, Data Officer, Membership Development Officer and Public Relations Officer.
+Their duties shall include:
 
 (a) The Chair - to
 
@@ -159,19 +160,32 @@ The Secretary shall not later than 2nd January and within seven days after any s
 
 (g) The Local Party's Agent or Organiser.
 
-5.4. The Executive Committee may co-opt up to four (4) additional members, for a term expiring not later than the next following AGM. The power of co-option shall be used, inter alia, to ensure if possible that no more than two-thirds of the Executive Committee (other than under Sections 5.3 (c) - (g)), are of the same sex, and that there is fair representation of under represented communities in the locality, taking into account race, religion, age, disability, gender or sexual orientation and that this would create a composition of the Executive that reflects the community the Local Party serves.
+5.4. The Executive Committee may co-opt up to four (4) additional members, for a term expiring not later than the next following AGM.
+The power of co-option shall be used, inter alia, to ensure if possible that no more than two-thirds of the Executive Committee (other than under Sections 5.3 (c) - (g)), are of the same sex, and that there is fair representation of under represented communities in the locality, taking into account race, religion, age, disability, gender or sexual orientation and that this would create a composition of the Executive that reflects the community the Local Party serves.
 
-5.5. The Honorary President is entitled to attend all meetings of the Executive Committee. Meetings of the Executive Committee shall be open to members of the Local Party as space permits.
+5.5. The Honorary President is entitled to attend all meetings of the Executive Committee.
+Meetings of the Executive Committee shall be open to members of the Local Party as space permits.
 
-5.6. The Executive Committee may fill any vacancy occurring among the Officers or the Ordinary Members. Any vacancy in the Chair shall be filled from the existing Executive Committee members. The Secretary shall within seven days notify any change of Officers to the Regional Party and to the Chief Executive of the Federal Party.
+5.6. The Executive Committee may fill any vacancy occurring among the Officers or the Ordinary Members.
+Any vacancy in the Chair shall be filled from the existing Executive Committee members.
+The Secretary shall within seven days notify any change of Officers to the Regional Party and to the Chief Executive of the Federal Party.
 
-5.7. The Executive Committee may assign special responsibilities to any of its members, including duties which would otherwise pertain to one of the Officers. The Executive shall designate an officer to deputise for the Chair if necessary if the Chair is ever unavailable.
+5.7. The Executive Committee may assign special responsibilities to any of its members, including duties which would otherwise pertain to one of the Officers.
+The Executive shall designate an officer to deputise for the Chair if necessary if the Chair is ever unavailable.
 
-5.8. The Officers shall convene a meeting of the Executive Committee within one month after taking office. The Executive Committee shall meet at least quarterly and not less than four times in a year. The secretary shall give at least 7 days notice of meetings to all members of the Executive Committee. One-third of its members shall form a quorum. A meeting, once properly convened, may continue without a quorum if no member present objects.
+5.8. The Officers shall convene a meeting of the Executive Committee within one month after taking office.
+The Executive Committee shall meet at least quarterly and not less than four times in a year.
+The secretary shall give at least 7 days notice of meetings to all members of the Executive Committee.
+One-third of its members shall form a quorum.
+A meeting, once properly convened, may continue without a quorum if no member present objects.
 
-5.9. The Executive Committee may appoint sub-committees for any specified purpose. No sub-committee or Executive Committee member may take action on behalf of the Executive Committee beyond their terms of appointment. All sub-committees shall report on their activities to the Executive Committee and may include persons who are not members of the Executive Committee and may delegate authority to take actions on their behalf. The Executive Committee may also delegate authority to committees jointly constituted with the other local parties for particular purposes.
+5.9. The Executive Committee may appoint sub-committees for any specified purpose.
+No sub-committee or Executive Committee member may take action on behalf of the Executive Committee beyond their terms of appointment.
+All sub-committees shall report on their activities to the Executive Committee and may include persons who are not members of the Executive Committee and may delegate authority to take actions on their behalf.
+The Executive Committee may also delegate authority to committees jointly constituted with the other local parties for particular purposes.
 
-5.10. In urgent circumstances the Officers may act on behalf of the Executive Committee. They shall report on such actions to the next meeting of the Executive Committee.
+5.10. In urgent circumstances the Officers may act on behalf of the Executive Committee.
+They shall report on such actions to the next meeting of the Executive Committee.
 
 ### 6. Election of Officers and Executive Committee
   6.1. The Officers and Ordinary Members shall be elected by and from members of the Local Party at the time of the Annual General Meeting. If an elections is contested, there shall be a ballot of the members present at the AGM.
