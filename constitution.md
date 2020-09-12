@@ -45,86 +45,133 @@
 
 4.2. All persons shall be eligible to join the Local Party if they agree with the fundamental values and objectives of the party; and
 
-     (a) they live, work or study within the area of the Local Party, or
+(a) they live, work or study within the area of the Local Party, or
 
-     (b) if not eligible under Section 4.2 (a) they acquire membership with the consent of the Local Party Executive Committee, or
+(b) if not eligible under Section 4.2 (a) they acquire membership with the consent of the Local Party Executive Committee, or
 
-     (c) they are an MP, MEP, prospective Westminster or European parliamentary candidate or member of a local authority for a seat wholly or partly within the area of the Local Party.
+(c) they are an MP, MEP, prospective Westminster or European parliamentary candidate or member of a local authority for a seat wholly or partly within the area of the Local Party.
 
 4.3. Eligible persons shall become members of the Local Party:
 
-     (a) on enrolment through the Local Party; or
+(a) on enrolment through the Local Party; or
 
-     (b) on enrolment through the Party's Youth and Student Organisation giving an address within the Constituency; or
+(b) on enrolment through the Party's Youth and Student Organisation giving an address within the Constituency; or
 
-     (c) if already members of the Party, on re-registration as a member of the Local Party.
+(c) if already members of the Party, on re-registration as a member of the Local Party.
 
-     Members of the Local Party who are also members of the Party's Youth and Student Organisation may be restrained under the Party Constitution from exercising certain rights as members of the Local Party if they exercise equivalent rights as members of the Youth and Student Organisation.
+Members of the Local Party who are also members of the Party's Youth and Student Organisation may be restrained under the Party Constitution from exercising certain rights as members of the Local Party if they exercise equivalent rights as members of the Youth and Student Organisation.
 
 4.4.
 
-     (a) An applicant shall become a member on acceptance by the enrolling body, payment of the requisite subscription and registration on the register kept by the Party in England.
+(a) An applicant shall become a member on acceptance by the enrolling body, payment of the requisite subscription and registration on the register kept by the Party in England.
 
-     (b) An application shall be deemed accepted if not rejected in accordance with the Membership Rules.
+(b) An application shall be deemed accepted if not rejected in accordance with the Membership Rules.
 
-     (c) Initial membership shall run for one year from the quarter day (last day of March, June, September or December) following commencement.
+(c) Initial membership shall run for one year from the quarter day (last day of March, June, September or December) following commencement.
 
-     (d) Members whose subscriptions are due shall receive notices of meetings and elections for a further 3 months.
+(d) Members whose subscriptions are due shall receive notices of meetings and elections for a further 3 months.
 
-     (e) Members who do not renew their subscriptions before the end of the 3 months period must reapply for membership.
+(e) Members who do not renew their subscriptions before the end of the 3 months period must reapply for membership.
 
 4.5. The Executive Committee may refuse membership to, or revoke the membership of, any person, on the grounds provided by the Party Constitution, using the procedure defined in the Membership Rules of the Liberal Democrats in England.
 
 4.6. A member of the Local Party who ceases to be eligible under Section 4.2 (a) may retain membership of the Local Party with the consent of the Executive Committee.
 
 ### 5. Officers and Executive Committee
-  5.1. The Officers of the Local Party shall be the Chair, [Vice-Chair,] Secretary, Treasurer, Data Officer, Membership Development Officer and Public Relations Officer. Their duties shall include:
-    (a) The Chair - to
-      (i) chair all General and Executive Committee Meetings,
-      (ii) in the event of a tied vote the Chair shall have an additional casting vote,
-      (iii) be jointly responsible with the Treasurer for the Local Party's compliance with the Political Parties, Elections and Referendums Act 2000;
-    (b) The Vice-Chair - to chair General and Executive Committee Meetings if the Chair is unable to do so;
-    (c) The Secretary - to :
-      (i) handle the Local Party's correspondence,
-      (ii) maintain minutes of meetings,
-      (iii) act as Returning Officer for Elections (unless they are a candidate);
-    (d) The Treasurer - to
-      (i) handle the Local Party's financial business and present audited accounts to General Meetings,
-      (ii) be jointly responsible with the Chair for the Local Party's compliance with the Political Parties, Elections and Referendums Act 2000;
-    (e) The Data Officer - to:
-      (i) receive all notices of application for membership and refer them to the Executive Committee for acceptance,
-      (ii) maintain a membership register and provide Branch and Local Party Officers with lists of members as necessary under this Constitution,
-      (iii) hold and maintain the Connect/campaigning data of the local party,
-      (iv) ensure compliance with data protection legislation;
-    (f) The Membership Development Officer - to:
-      (i) prepare and publish regular bulletins or newsletters to inform members of current activities and events,
-      (ii) organise and run membership recruitment and renewal campaigns,
-      (iii) ensure that the Local Party has a wide a range of social and political activities to facilitate member retention;
-    (g) The Public Relations Officer - to:
-      (i) issue statements to the press and other media on behalf of the Lancaster and Morecambe Liberal Democrats,
-      (ii) maintain and advance the Local Party's relations with the local media,
-      (iii) develop and maintain the website and other forms of electronic communications;
-    (h) The 100 Club Coordinator - to:
-      (i) organise and publicise the 100 Club,
-      (ii) obtain and maintain relevant licences and records of the draws,
-      (iii) report on the financial situation of the 100 Club.
-  The Secretary shall not later than 2nd January and within seven days after any subsequent change notify the names and addresses of all Officers to the Regional Party and to the Chief Executive of the Federal Party.
-  5.2. There may be an Honorary President to be elected by the Annual General Meeting.
-  5.3. The general and financial business of the Local Party shall be controlled and carried on by the Executive Committee, subject to the decisions of General Meetings and in compliance with the Political Parties, Elections and Referendums Act 2000. The Executive Committee shall consist of:
-    (a) The Officers;
-    (b) Four (4) Ordinary Members to be elected annually in the same manner as the Officers, two (2) for each of the Parliamentary Constituencies;
-    (c) The Party's Members of Parliament for the Constituencies, and the prospective Parliamentary Candidates;
-    (d) Two (2) representatives of the Party's members from the Lancashire County Council representing electoral divisions within the Constituency, elected by and from such members;
-    (e) Two (2) representatives of the Party's members from each district council group of the Lancaster City Council representing wards within the Constituencies, elected by and from such members;
-    (f) Two (2) representatives elected by and from each local Branch of the Party (including the Party's Youth and Student Organisation);
-    (g) The Local Party's Agent or Organiser.
-  5.4. The Executive Committee may co-opt up to four (4) additional members, for a term expiring not later than the next following AGM. The power of co-option shall be used, inter alia, to ensure if possible that no more than two-thirds of the Executive Committee (other than under Sections 5.3 (c) - (g)), are of the same sex, and that there is fair representation of under represented communities in the locality, taking into account race, religion, age, disability, gender or sexual orientation and that this would create a composition of the Executive that reflects the community the Local Party serves.
-  5.5. The Honorary President is entitled to attend all meetings of the Executive Committee. Meetings of the Executive Committee shall be open to members of the Local Party as space permits.
-  5.6. The Executive Committee may fill any vacancy occurring among the Officers or the Ordinary Members. Any vacancy in the Chair shall be filled from the existing Executive Committee members. The Secretary shall within seven days notify any change of Officers to the Regional Party and to the Chief Executive of the Federal Party.
-  5.7. The Executive Committee may assign special responsibilities to any of its members, including duties which would otherwise pertain to one of the Officers. The Executive shall designate an officer to deputise for the Chair if necessary if the Chair is ever unavailable.
-  5.8. The Officers shall convene a meeting of the Executive Committee within one month after taking office. The Executive Committee shall meet at least quarterly and not less than four times in a year. The secretary shall give at least 7 days notice of meetings to all members of the Executive Committee. One-third of its members shall form a quorum. A meeting, once properly convened, may continue without a quorum if no member present objects.
-  5.9. The Executive Committee may appoint sub-committees for any specified purpose. No sub-committee or Executive Committee member may take action on behalf of the Executive Committee beyond their terms of appointment. All sub-committees shall report on their activities to the Executive Committee and may include persons who are not members of the Executive Committee and may delegate authority to take actions on their behalf. The Executive Committee may also delegate authority to committees jointly constituted with the other local parties for particular purposes.
-  5.10. In urgent circumstances the Officers may act on behalf of the Executive Committee. They shall report on such actions to the next meeting of the Executive Committee.
+
+5.1. The Officers of the Local Party shall be the Chair, [Vice-Chair,] Secretary, Treasurer, Data Officer, Membership Development Officer and Public Relations Officer. Their duties shall include:
+
+(a) The Chair - to
+
+(i) chair all General and Executive Committee Meetings,
+
+(ii) in the event of a tied vote the Chair shall have an additional casting vote,
+
+(iii) be jointly responsible with the Treasurer for the Local Party's compliance with the Political Parties, Elections and Referendums Act 2000;
+
+(b) The Vice-Chair - to chair General and Executive Committee Meetings if the Chair is unable to do so;
+
+(c) The Secretary - to :
+
+(i) handle the Local Party's correspondence,
+
+(ii) maintain minutes of meetings,
+
+(iii) act as Returning Officer for Elections (unless they are a candidate);
+
+(d) The Treasurer - to
+
+(i) handle the Local Party's financial business and present audited accounts to General Meetings,
+
+(ii) be jointly responsible with the Chair for the Local Party's compliance with the Political Parties, Elections and Referendums Act 2000;
+
+(e) The Data Officer - to:
+
+(i) receive all notices of application for membership and refer them to the Executive Committee for acceptance,
+
+(ii) maintain a membership register and provide Branch and Local Party Officers with lists of members as necessary under this Constitution,
+
+(iii) hold and maintain the Connect/campaigning data of the local party,
+
+(iv) ensure compliance with data protection legislation;
+
+(f) The Membership Development Officer - to:
+
+(i) prepare and publish regular bulletins or newsletters to inform members of current activities and events,
+
+(ii) organise and run membership recruitment and renewal campaigns,
+
+(iii) ensure that the Local Party has a wide a range of social and political activities to facilitate member retention;
+
+(g) The Public Relations Officer - to:
+
+(i) issue statements to the press and other media on behalf of the Lancaster and Morecambe Liberal Democrats,
+
+(ii) maintain and advance the Local Party's relations with the local media,
+
+(iii) develop and maintain the website and other forms of electronic communications;
+
+(h) The 100 Club Coordinator - to:
+
+(i) organise and publicise the 100 Club,
+
+(ii) obtain and maintain relevant licences and records of the draws,
+
+(iii) report on the financial situation of the 100 Club.
+
+The Secretary shall not later than 2nd January and within seven days after any subsequent change notify the names and addresses of all Officers to the Regional Party and to the Chief Executive of the Federal Party.
+
+5.2. There may be an Honorary President to be elected by the Annual General Meeting.
+
+5.3. The general and financial business of the Local Party shall be controlled and carried on by the Executive Committee, subject to the decisions of General Meetings and in compliance with the Political Parties, Elections and Referendums Act 2000. The Executive Committee shall consist of:
+
+(a) The Officers;
+
+(b) Four (4) Ordinary Members to be elected annually in the same manner as the Officers, two (2) for each of the Parliamentary Constituencies;
+
+(c) The Party's Members of Parliament for the Constituencies, and the prospective Parliamentary Candidates;
+
+(d) Two (2) representatives of the Party's members from the Lancashire County Council representing electoral divisions within the Constituency, elected by and from such members;
+
+(e) Two (2) representatives of the Party's members from each district council group of the Lancaster City Council representing wards within the Constituencies, elected by and from such members;
+
+(f) Two (2) representatives elected by and from each local Branch of the Party (including the Party's Youth and Student Organisation);
+
+(g) The Local Party's Agent or Organiser.
+
+5.4. The Executive Committee may co-opt up to four (4) additional members, for a term expiring not later than the next following AGM. The power of co-option shall be used, inter alia, to ensure if possible that no more than two-thirds of the Executive Committee (other than under Sections 5.3 (c) - (g)), are of the same sex, and that there is fair representation of under represented communities in the locality, taking into account race, religion, age, disability, gender or sexual orientation and that this would create a composition of the Executive that reflects the community the Local Party serves.
+
+5.5. The Honorary President is entitled to attend all meetings of the Executive Committee. Meetings of the Executive Committee shall be open to members of the Local Party as space permits.
+
+5.6. The Executive Committee may fill any vacancy occurring among the Officers or the Ordinary Members. Any vacancy in the Chair shall be filled from the existing Executive Committee members. The Secretary shall within seven days notify any change of Officers to the Regional Party and to the Chief Executive of the Federal Party.
+
+5.7. The Executive Committee may assign special responsibilities to any of its members, including duties which would otherwise pertain to one of the Officers. The Executive shall designate an officer to deputise for the Chair if necessary if the Chair is ever unavailable.
+
+5.8. The Officers shall convene a meeting of the Executive Committee within one month after taking office. The Executive Committee shall meet at least quarterly and not less than four times in a year. The secretary shall give at least 7 days notice of meetings to all members of the Executive Committee. One-third of its members shall form a quorum. A meeting, once properly convened, may continue without a quorum if no member present objects.
+
+5.9. The Executive Committee may appoint sub-committees for any specified purpose. No sub-committee or Executive Committee member may take action on behalf of the Executive Committee beyond their terms of appointment. All sub-committees shall report on their activities to the Executive Committee and may include persons who are not members of the Executive Committee and may delegate authority to take actions on their behalf. The Executive Committee may also delegate authority to committees jointly constituted with the other local parties for particular purposes.
+
+5.10. In urgent circumstances the Officers may act on behalf of the Executive Committee. They shall report on such actions to the next meeting of the Executive Committee.
 
 ### 6. Election of Officers and Executive Committee
   6.1. The Officers and Ordinary Members shall be elected by and from members of the Local Party at the time of the Annual General Meeting. If an elections is contested, there shall be a ballot of the members present at the AGM.
