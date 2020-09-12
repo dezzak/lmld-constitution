@@ -2,8 +2,9 @@
 ## (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies)
 
 ### 1. Name and Area
-       1.1. The name of the body governed by this Constitution shall be "The Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies)".
-       1.2. The area of the Local Party shall be the Lancaster and Fleetwood Parliamentary Constituency and the Morecambe and Lunesdale Parliamentary Constituency.
+1.1. The name of the body governed by this Constitution shall be "The Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies)".
+
+1.2. The area of the Local Party shall be the Lancaster and Fleetwood Parliamentary Constituency and the Morecambe and Lunesdale Parliamentary Constituency.
 
 ### 2. Definitions
        2.1. In this Constitution:
