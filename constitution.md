@@ -2,30 +2,40 @@
 ## (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies)
 
 ### 1. Name and Area
-  1.1. The name of the body governed by this Constitution shall be "The Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies)".
-  1.2. The area of the Local Party shall be the Lancaster and Fleetwood Parliamentary Constituency and the Morecambe and Lunesdale Parliamentary Constituency.
+       1.1. The name of the body governed by this Constitution shall be "The Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies)".
+       1.2. The area of the Local Party shall be the Lancaster and Fleetwood Parliamentary Constituency and the Morecambe and Lunesdale Parliamentary Constituency.
 
 ### 2. Definitions
-  2.1. In this Constitution:
-    * "the Local Party" means the Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies);
-    * "the Party Constitution" means the Constitution of the Federal Party and of the Liberal Democrats in England;
-    * "the Regional Party" means the North-West Region Liberal Democrats;
-    * "the Constituencies" means the Parliamentary Constituencies of Lancaster and Fleetwood and Morecambe and Lunesdale;
-    * "Party's Youth and Student Organisation" means the Specified Associated Organisation representing youth and students;
-    * "Majority" at any meeting means majority of those present and voting; and
-    * "Executive Committee" means the executive committee of the Local Party.
+       2.1. In this Constitution:
+            * "the Local Party" means the Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies);
+            * "the Party Constitution" means the Constitution of the Federal Party and of the Liberal Democrats in England;
+            * "the Regional Party" means the North-West Region Liberal Democrats;
+            * "the Constituencies" means the Parliamentary Constituencies of Lancaster and Fleetwood and Morecambe and Lunesdale;
+            * "Party's Youth and Student Organisation" means the Specified Associated Organisation representing youth and students;
+            * "Majority" at any meeting means majority of those present and voting; and
+            * "Executive Committee" means the executive committee of the Local Party.
 
 ### 3. Objects
   3.1. The objects of the Local Party shall be:
+
     (a) be the successor within its area to the Lancaster and Fleetwood Liberal Democrats and to the Morecambe and Lunesdale Liberal Democrats; and
+
     (b) to promote and support the values and objects of the Party in the Constituencies and in particular through its members:
+
       (i) to secure the election of Liberal Democrats as Members of Parliament, UK Members of the European Parliament, members of regional, local and other elected public authorities and other public office;
+
       (ii) to admit and actively recruit new members to the Party, and encourage existing members to renew their membership;
+
       (iii) to participate in the formulation of the policy of the Party;
+
       (iv) to be recognised as a Local Party; to play a full role in the democratic processes of the Party; and to send representatives, in accordance with the constitutions of the bodies concerned, to Party bodies;
+
       (v) to play a full part in the campaigning activities of the Party at all levels;
+
       (vi) to campaign and work with local people to achieve the objectives set out in the Preamble to the Party Constitution;
+
       (vii) to help all local people, without regard to party or any other factor, to secure their rights and to protect them against oppression; and
+
       (viii) to promote diversity of cultures within the Party and to represent the interests of under-represented groups in the locality.
 
 ### 4. Membership
