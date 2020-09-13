@@ -2,11 +2,13 @@
 ## (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies)
 
 ### 1. Name and Area
+
 1.1. The name of the body governed by this Constitution shall be "The Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies)".
 
 1.2. The area of the Local Party shall be the Lancaster and Fleetwood Parliamentary Constituency and the Morecambe and Lunesdale Parliamentary Constituency.
 
 ### 2. Definitions
+
 2.1. In this Constitution:
 
 * "the Local Party" means the Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies);
@@ -18,6 +20,7 @@
 * "Executive Committee" means the executive committee of the Local Party.
 
 ### 3. Objects
+
 3.1. The objects of the Local Party shall be:
 
 (a) be the successor within its area to the Lancaster and Fleetwood Liberal Democrats and to the Morecambe and Lunesdale Liberal Democrats; and
@@ -41,6 +44,7 @@
 (viii) to promote diversity of cultures within the Party and to represent the interests of under-represented groups in the locality.
 
 ### 4. Membership
+
 4.1. The Local Party shall administer membership in accordance with the Membership Rules of the Liberal Democrats in England.
 
 4.2. All persons shall be eligible to join the Local Party if they agree with the fundamental values and objectives of the party; and
@@ -211,7 +215,8 @@ The Returning Officer shall be responsible for the receipt of nominations and fo
 
 6.8. Accidental failure to despatch notice of the AGM in due time or at all to a person entitled to vote shall not invalidate an election or be treated as an irregularity, unless a substantial number of persons entitled to vote have not received notices at all or have received them too late to make it practicable to attend the meeting.
 
-6.9. An unsuccessful candidate who alleges that there has been or may have been an irregularity in the election may within one calendar month after the declaration of the result ask for an investigation by the Regional Party in accordance with the Party Constitution. Subject to any order made after such an investigation, no irregularity shall invalidate an election.
+6.9. An unsuccessful candidate who alleges that there has been or may have been an irregularity in the election may within one calendar month after the declaration of the result ask for an investigation by the Regional Party in accordance with the Party Constitution.
+Subject to any order made after such an investigation, no irregularity shall invalidate an election.
 
 ### 7. General Meetings
 
@@ -224,7 +229,11 @@ The Executive Committee may postpone the AGM if it would conflict with a Parliam
 
 (b) to consider and, if thought fit, approve the accounts of the Local Party for the previous financial year together with an independent report on those accounts, and to receive a report from the Treasurer including an outline budget for the following year;
 
-(c) to appoint for the current Financial Year (I) Auditors if required by the Political Parties, Elections and Referendums Act 2000 or (ii) a person(s) to produce an independent report on the accounts for a General Meeting;
+(c) to appoint for the current Financial Year
+
+(i) Auditors if required by the Political Parties, Elections and Referendums Act 2000 or
+
+(ii) a person(s) to produce an independent report on the accounts for a General Meeting;
 
 (d) to receive reports from each Liberal Democrat Council group on which Local Party members serve;
 
@@ -239,10 +248,15 @@ Such notice shall specify all business to be conducted at the meeting.
 
 7.4. The AGM may be a two-thirds majority agree to consider urgent or important business which has arisen since notice of the AGM was given.
 
-7.5. A special General Meeting may be convened by the Officers, or by the Executive Committee; and shall, on receipt of a requisition signed by at least twenty members of the Local Party (or one-fifth (1/5th) of the membership if less), be convened by the Secretary so as to be held within 28 days from receipt of such requisition. At least 14 days written notice shall be given to all members. The meeting shall only consider business stated in the notice convening it. Failure to convene a validly requisitioned meeting within 14 days shall permit the meeting to be convened on behalf of (and at the expense of) the Local Party by any of the original requisitioners. In an emergency, the Officers may convene a meeting giving such notice as they consider sufficient in the circumstances.
+7.5. A special General Meeting may be convened by the Officers, or by the Executive Committee; and shall, on receipt of a requisition signed by at least twenty members of the Local Party (or one-fifth (1/5th) of the membership if less), be convened by the Secretary so as to be held within 28 days from receipt of such requisition.
+At least 14 days written notice shall be given to all members.
+The meeting shall only consider business stated in the notice convening it.
+Failure to convene a validly requisitioned meeting within 14 days shall permit the meeting to be convened on behalf of (and at the expense of) the Local Party by any of the original requisitioners.
+In an emergency, the Officers may convene a meeting giving such notice as they consider sufficient in the circumstances.
 
 7.6. 20 members (or one-fifth (1/5th) of the membership if less), shall form a quorum at any General Meeting.
-A quorum is not required to receive reports and accounts. A meeting may continue without a quorum if no member present objects except as provided for in sections 4.5 and 11.1.
+A quorum is not required to receive reports and accounts.
+A meeting may continue without a quorum if no member present objects except as provided for in sections 4.5 and 11.1.
 
 7.7. Notice and minutes of all Annual and Special General Meetings shall be sent to the secretary of the Regional Party.
 
@@ -253,7 +267,8 @@ In the absence of an Executive Committee member charged with the duty, the Meeti
 ### 8. Local Branches
 
 8.1. The Executive Committee may authorise the setting up of Branches covering defined areas of the Local Party, provided that no branch shall be formed with less than 10 members.
-The objects of a Branch shall be to further the objects of the Local Party in the area covered by the Branch. The Branch shall be subject to the ultimate authority of the Local Party.
+The objects of a Branch shall be to further the objects of the Local Party in the area covered by the Branch.
+The Branch shall be subject to the ultimate authority of the Local Party.
 
 8.2. The members of the Branch shall be:
 
@@ -295,7 +310,8 @@ The Branch's accounting period shall be the same as that of the Local Party.
 
 (e) The Branch Treasurer shall submit the accounts of the Branch together with an independent report to the Annual General Meeting.
 
-(f) The Branch shall maintain one or more bank or other appropriate accounts in the name of the Branch for which the mandate for withdrawal shall require the signature of at least two Officers who shall not come solely from members of any one family. The Branch may maintain further accounts for the deposit of money not required for the time being, requiring the same signatures.
+(f) The Branch shall maintain one or more bank or other appropriate accounts in the name of the Branch for which the mandate for withdrawal shall require the signature of at least two Officers who shall not come solely from members of any one family.
+The Branch may maintain further accounts for the deposit of money not required for the time being, requiring the same signatures.
 
 8.6. The Branch may appoint a substitute representative to the Executive Committee to fill a casual vacancy, or if a representative is unable to attend a particular meeting.
 
@@ -323,7 +339,8 @@ The Executive Committee may appoint a sub-committee to carry out its duties unde
 
 9.2. The Executive Committee shall seek to ensure that, so far as practicable, all seats within the Constituency on Principal Local Authorities are contested by members of the Party, unless the Executive Committee is satisfied that it is in the best interests of the Party in any case not to do so.
 
-9.3. When it is necessary to select one or more local government candidates for an electoral area, the Local Party shall hold a General Meeting at which all members who are resident in the electoral area concerned may vote, and may select any member from a list of approved candidates maintained by the Executive Committee, or may select any other member conditionally upon subsequent approval by the Executive Committee. The timetable and procedure for selection shall be agreed by the Branch Committee and the Executive Committee, or where there is no Branch by the Executive Committee.
+9.3. When it is necessary to select one or more local government candidates for an electoral area, the Local Party shall hold a General Meeting at which all members who are resident in the electoral area concerned may vote, and may select any member from a list of approved candidates maintained by the Executive Committee, or may select any other member conditionally upon subsequent approval by the Executive Committee.
+The timetable and procedure for selection shall be agreed by the Branch Committee and the Executive Committee, or where there is no Branch by the Executive Committee.
 
 9.4. In any electoral area, in which the eligible electorate for voting in the selection does not exceed 10, the electorate shall be expanded to constitute the members living in the electoral area plus the Branch Committee or, if there is no Branch, the Executive Committee.
 
