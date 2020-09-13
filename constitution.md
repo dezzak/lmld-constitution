@@ -16,7 +16,8 @@
 * "the Party Constitution" means the Constitutions of the Federal Party and of the Liberal Democrats in England;
 * "the Party" means the Liberal Democrats;
 * "the Regional Party" means the (...) Region Liberal Democrats;
-* "the Constituency/(ies)" means the Parliamentary Constituency/(ies) of (...); "Conference Representatives" means members of the Local Party elected to be its representatives at Federal and/or Regional Conferences;
+* "the Constituency/(ies)" means the Parliamentary Constituency/(ies) of (...);
+* "Conference Representatives" means members of the Local Party elected to be its representatives at Federal and/or Regional Conferences;
 * "Party's Youth and Student Organisation" means the Specified Associated Organisation representing youth and students;
 * "Majority" at any meeting means majority of those present and voting; and
 * "Executive Committee" means the executive committee of the Local Party.
@@ -162,7 +163,8 @@ The Secretary shall within seven days notify any change of Officers to the Regio
 5.8. The Officers shall convene a meeting of the Executive Committee within one month after taking office.
 The Executive Committee shall meet at least quarterly and not less than four times in a year.
 The Secretary shall give at least 7 days notice of meetings to all members of the Executive Committee.
-One-third of its members shall form a quorum. [A meeting may continue without a quorum if no member present objects.]
+One-third of its members shall form a quorum.
+[A meeting may continue without a quorum if no member present objects.]
 
 5.9. The Executive Committee may appoint sub-committees for any specified purpose.
 No subcommittee or Executive Committee member may take action on behalf of the Executive Committee beyond their terms of appointment.
@@ -247,7 +249,7 @@ A quorum is not required to receive reports and accounts.
 Minutes shall also be kept of any meetings of the Executive Committee.
 In the absence of an Executive Committee member charged with the duty, the Meeting shall appoint a member to take minutes.
 
-### [8.	Local Branches
+### [8. Local Branches
 
 8.1. The Executive Committee may authorise the setting up of Branches covering defined areas of the Local Party, provided that no branch shall be formed with less than 10 members.
 The objects of a Branch shall be to further the objects of the Local Party in the area covered by the Branch.
@@ -289,7 +291,7 @@ The Branch's accounting period shall be the same as that of the Local Party.
 
 (b) The Branch Treasurer shall keep, maintain for six years, and pass to his or her successor accounting records which shall be available for inspection in accordance with the Political Parties, Elections and Referendums Act 2000.
 
-(c) The Branch Treasurer shall ensure that no donation of over £500is accepted except from a permissible donor and shall keep records and submit donations reports to the Treasurer of the Local Party.
+(c) The Branch Treasurer shall ensure that no donation of over £500 is accepted except from a permissible donor and shall keep records and submit donations reports to the Treasurer of the Local Party.
 
 (d) The Branch Treasurer shall annually produce accounts which shall be approved by the Branch Committee and shall be sent to the Treasurer of the Local Party by a date to be specified by the Treasurer of the Local Party.
 
@@ -387,4 +389,3 @@ Any member shall be provided with a copy of the Constitution on request.
 11.6. No word or construction in this Constitution shall be taken to imply any discrimination whatsoever with regard to sex, race, colour, creed, age, disability, sexual orientation or any other ground other than political belief or practice.
 
 11.7. In the event of the dissolution or suspension of the Local Party, the assets of the Local Party shall vest in the Regional Party on trust for the future reconstitution of the Local Party, unless explicitly provided otherwise by a General Meeting in the event of dissolution pursuant upon boundary changes and subject to the agreement of the Regional Party.
-
