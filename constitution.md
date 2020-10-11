@@ -256,7 +256,7 @@ In an emergency, the Officers may convene a meeting giving such notice as they c
 
 7.6. 20 members (or one-fifth (1/5th) of the membership if less), shall form a quorum at any General Meeting.
 A quorum is not required to receive reports and accounts.
-A meeting may continue without a quorum if no member present objects except as provided for in sections 4.5 and 11.1.
+A meeting may continue without a quorum if no member present objects except as provided for in section 11.1.
 
 7.7. Notice and minutes of all Annual and Special General Meetings shall be sent to the secretary of the Regional Party.
 
@@ -304,7 +304,7 @@ The Branch's accounting period shall be the same as that of the Local Party.
 
 (b) The Branch Treasurer shall keep, maintain for six years, and pass to his or her successor accounting records which shall be available for inspection in accordance with the Political Parties, Elections and Referendums Act 2000.
 
-(c) The Branch Treasurer shall ensure that no donation of over £200 is accepted except from a permissible donor and shall keep records and submit donations reports to the Treasurer of the Local Party.
+(c) The Branch Treasurer shall ensure that no donation of over £500 is accepted except from a permissible donor and shall keep records and submit donations reports to the Treasurer of the Local Party.
 
 (d) The Branch Treasurer shall annually produce accounts which shall be approved by the Branch Committee and shall be sent to the Treasurer of the Local Party by a date to be specified by the Treasurer of the Local Party.
 
@@ -365,16 +365,21 @@ The Delegated Nominating Officer shall act in accordance with the Rules made by 
 
 10.2. The Treasurer shall keep, maintain for six years, and pass to his or her successor accounting records which shall be available for inspection in accordance with the Political Parties, Elections and Referendums Act 2000.
 
-10.3. The Treasurer shall ensure that no donation of over £200 is accepted except from a permissible donor and shall keep records and submit donations reports to the Executive Committee and to Chief Executive of the Federal Party.
+10.3. The Treasurer shall ensure that no donation of over £500 is accepted except from a permissible donor and shall keep records and submit donations reports to the Executive Committee and to Chief Executive of the Federal Party.
 
-10.4. The Treasurer shall annually produce accounts which shall be approved by the Executive Committee at a meeting held no later than March each year and if required by the Political Parties, Elections & Referendums Act 2000 shall be audited and submitted to the Electoral Commission.
+10.4. The Treasurer shall annually produce accounts which shall be approved by the Executive Committee and if required by the Political Parties, Elections & Referendums Act 2000 shall be audited and submitted to the Electoral Commission.
 
-10.5. The Treasurer shall submit such approved accounts of the Local Party together with an independent report to a General Meeting which shall be held no later than March each year.
+10.5. The Treasurer shall submit the accounts of the Local Party together with an independent report to a General Meeting which shall be held not later than March in each year.
 
 10.6. A copy of the annual accounts shall be sent to the Treasurer of the Regional Party and to the Chief Executive of the Federal Party.
 
-10.7. The Local Party shall maintain one or more bank or other appropriate accounts in the name of the Local Party for which the mandate for withdrawal shall require the signature of at least two Officers who shall not come solely from members of any one family.
+10.7.
+
+(a) The Local Party shall maintain one or more bank or other appropriate accounts in the name of the Local Party for which the mandate for withdrawal shall require the signature of at least two Officers who shall not come solely from members of any one family.
 The Local Party may maintain further accounts for the deposit of money not required for the time being, requiring the same signatures.
+
+(b) The Local Party may take advantage of electronic banking facilities if they are provided by its bankers as long as appropriate safeguards are put in place by the Executive Committee to agree expenditure and cash movements both at Executive meetings and by a minimum of two officers in between meetings in advance of such expenditure or movements taking place.
+Where such action is taken between meetings it will be reported back to the next Executive meeting.
 
 10.8. If the Local Party fails by 15th January to notify the Chief Executive of the Federal Party of the appointment of a Chair and a Treasurer the Local Party shall automatically be suspended.
 
@@ -391,7 +396,7 @@ Any amendment to this Constitution shall be subject to approval by the Regional 
 11.4. One copy of the Constitution shall be deposited with the Secretary of the Regional Party; and one shall be kept with the minute book of the Local Party.
 Any member shall be provided with a copy of the Constitution on request.
 
-11.5. In the event of any question of interpretation arising, or any question on which this Constitution is silent, the Executive Committee shall have power to act according to its interpretation of the Constitution, or at its discretion, subject to Article 8 of the Constitution of the Liberal Democrats in England and Article 14 of the Constitution of the Federal Party.
+11.5. In the event of any question of interpretation arising, or any question on which this Constitution is silent, the Executive Committee shall have power to act according to its interpretation of the Constitution, or at its discretion, subject to Article 9 of the Constitution of the Liberal Democrats in England and Article 22 of the Constitution of the Federal Party.
 
 11.6. No word or construction in this Constitution shall be taken to imply any discrimination whatsoever with regard to sex, race, colour, creed, age, disability, sexual orientation or any other ground other than political belief or practice.
 
