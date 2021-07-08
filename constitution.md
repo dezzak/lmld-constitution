@@ -1,20 +1,23 @@
-# Constitution of the Lancaster and Morecambe Liberal Democrats
-## (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies)
+# Model Constitution for Local Parties
+
+## CONSTITUTION OF THE (...) LIBERAL DEMOCRATS
 
 ### 1. Name and Area
 
-1.1. The name of the body governed by this Constitution shall be "The Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies)".
+1.1. The name of the body governed by this Constitution shall be "The (...) Liberal Democrats".
 
-1.2. The area of the Local Party shall be the Lancaster and Fleetwood Parliamentary Constituency and the Morecambe and Lunesdale Parliamentary Constituency.
+1.2. The area of the Local Party shall be (...).
 
 ### 2. Definitions
 
 2.1. In this Constitution:
 
-* "the Local Party" means the Lancaster and Morecambe Liberal Democrats (Incorporating Lancaster and Fleetwood & Morecambe and Lunesdale Constituencies);
-* "the Party Constitution" means the Constitution of the Federal Party and of the Liberal Democrats in England;
-* "the Regional Party" means the North-West Region Liberal Democrats;
-* "the Constituencies" means the Parliamentary Constituencies of Lancaster and Fleetwood and Morecambe and Lunesdale;
+* "the Local Party" means the (...) Liberal Democrats;
+* "the Party Constitution" means the Constitutions of the Federal Party and of the Liberal Democrats in England;
+* "the Party" means the Liberal Democrats;
+* "the Regional Party" means the (...) Region Liberal Democrats;
+* "the Constituency/(ies)" means the Parliamentary Constituency/(ies) of (...);
+* "Conference Representatives" means members of the Local Party elected to be its representatives at Federal and/or Regional Conferences;
 * "Party's Youth and Student Organisation" means the Specified Associated Organisation representing youth and students;
 * "Majority" at any meeting means majority of those present and voting; and
 * "Executive Committee" means the executive committee of the Local Party.
@@ -23,9 +26,9 @@
 
 3.1. The objects of the Local Party shall be:
 
-(a) be the successor within its area to the Lancaster and Fleetwood Liberal Democrats and to the Morecambe and Lunesdale Liberal Democrats; and
+(a) be the successor within its area to the (...) Liberal Association and to the (...) SDP Area Party; and
 
-(b) to promote and support the values and objects of the Party in the Constituencies and in particular through its members:
+(b) to promote and support the values and objects of the Party in its area and in particular through its members:
 
 (i) to secure the election of Liberal Democrats as Members of Parliament, UK Members of the European Parliament, members of regional, local and other elected public authorities and other public office;
 
@@ -77,72 +80,50 @@ Members of the Local Party who are also members of the Party's Youth and Student
 
 (e) Members who do not renew their subscriptions before the end of the 3 months period must reapply for membership.
 
-4.5. The Executive Committee may refuse membership to, or revoke the membership of, any person, on the grounds provided by the Party Constitution, using the procedure defined in the Membership Rules of the Liberal Democrats in England.
-
-4.6. A member of the Local Party who ceases to be eligible under Section 4.2 (a) may retain membership of the Local Party with the consent of the Executive Committee.
+4.5. A member of the Local Party who ceases to be eligible under Section 4.2 (a) may retain membership of the Local Party with the consent of the Executive Committee.
 
 ### 5. Officers and Executive Committee
 
-5.1. The Officers of the Local Party shall be the Chair, [Vice-Chair,] Secretary, Treasurer, Data Officer, Membership Development Officer and Public Relations Officer.
+5.1. The Officers of the Local Party shall be the Chair, [Vice-Chair,] Secretary, Data Officer, Membership Development Officer and Treasurer.
 Their duties shall include:
 
-(a) The Chair - to
+(a) The Chair -
 
-(i) chair all General and Executive Committee Meetings,
+(i) to chair all General and Executive Committee Meetings;
 
-(ii) in the event of a tied vote the Chair shall have an additional casting vote,
+[(ii) in the event of a tied vote the Chair shall have an additional casting vote;]
 
-(iii) be jointly responsible with the Treasurer for the Local Party's compliance with the Political Parties, Elections and Referendums Act 2000;
+(iii) to be jointly responsible with the Treasurer for the Local Party's compliance with the Political Parties, Elections and Referendums Act 2000;
 
 (b) The Vice-Chair - to chair General and Executive Committee Meetings if the Chair is unable to do so;
 
-(c) The Secretary - to :
+(c) The Secretary -
 
-(i) handle the Local Party's correspondence,
+(i) to handle the Local Party's correspondence;
 
-(ii) maintain minutes of meetings,
+(ii) to maintain minutes of meetings;
 
-(iii) act as Returning Officer for Elections (unless they are a candidate);
+(d) The Treasurer -
 
-(d) The Treasurer - to
+(i) to handle the Local Party's financial business and present financial reports to General Meetings;
 
-(i) handle the Local Party's financial business and present audited accounts to General Meetings,
-
-(ii) be jointly responsible with the Chair for the Local Party's compliance with the Political Parties, Elections and Referendums Act 2000;
+(ii) to be jointly responsible with the Chair for the Local Party's compliance with the Political Parties, Elections and Referendums Act 2000;
 
 (e) The Data Officer - to:
 
-(i) receive all notices of application for membership and refer them to the Executive Committee for acceptance,
+(i) receive all notices of application for membership and refer them to the Executive Committee for acceptance;
 
-(ii) maintain a membership register and provide Branch and Local Party Officers with lists of members as necessary under this Constitution,
+(ii) maintain a membership register and provide Branch and Local Party Officers with lists of members as necessary under this Constitution;
 
-(iii) hold and maintain the Connect/campaigning data of the local party,
+(iii) hold and maintain the EARS/campaigning data of the local party; and
 
-(iv) ensure compliance with data protection legislation;
+(iv) ensure compliance with data protection legislation.
 
 (f) The Membership Development Officer - to:
 
-(i) prepare and publish regular bulletins or newsletters to inform members of current activities and events,
+(i) organise and run membership recruitment and renewal campaigns
 
-(ii) organise and run membership recruitment and renewal campaigns,
-
-(iii) ensure that the Local Party has a wide a range of social and political activities to facilitate member retention;
-
-(g) The Public Relations Officer - to:
-
-(i) issue statements to the press and other media on behalf of the Lancaster and Morecambe Liberal Democrats,
-
-(ii) maintain and advance the Local Party's relations with the local media,
-
-(iii) develop and maintain the website and other forms of electronic communications;
-
-(h) The 100 Club Coordinator - to:
-
-(i) organise and publicise the 100 Club,
-
-(ii) obtain and maintain relevant licences and records of the draws,
-
-(iii) report on the financial situation of the 100 Club.
+(ii) ensure that the Local Party has a wide a range of social and political activities to facilitate member retention
 
 The Secretary shall not later than 2nd January and within seven days after any subsequent change notify the names and addresses of all Officers to the Regional Party and to the Chief Executive of the Federal Party
 
@@ -152,57 +133,59 @@ The Secretary shall not later than 2nd January and within seven days after any s
 
 (a) The Officers;
 
-(b) Four (4) Ordinary Members to be elected annually in the same manner as the Officers, two (2) for each of the Parliamentary Constituencies;
+[(b)(...) Ordinary Members to be elected annually in the same manner as the Officers;]
 
-(c) The Party's Members of Parliament for the Constituencies, and the prospective Parliamentary Candidates;
+[(c) Representatives from each Branch within the Constituency, on a scale of (...) per Ward contained within the Branch, and (...) representatives of members in parts of the Constituency without Branches;]
 
-(d) Two (2) representatives of the Party's members from the Lancashire County Council representing electoral divisions within the Constituency, elected by and from such members;
+(d) The Party's Member of Parliament for the Constituency, and the prospective Parliamentary Candidate;
 
-(e) Two (2) representatives of the Party's members from each district council group of the Lancaster City Council representing wards within the Constituencies, elected by and from such members;
+(e) (...) representatives of the Party's members from the (...) County Council representing electoral divisions within the Constituency, elected by and from such members;
 
-(f) Two (2) representatives elected by and from each local Branch of the Party (including the Party's Youth and Student Organisation);
+(f) (...) representatives of the Party's members from the (...) [District]/[Borough] /[Unitary] Council(s) representing wards within the Constituency, elected by and from such members;
 
-(g) The Local Party's Agent or Organiser.
+(g) (...) representatives elected by and from each local Branch of the Party's Youth and Student Organisation;
 
-5.4. The Executive Committee may co-opt up to four (4) additional members, for a term expiring not later than the next following AGM.
-The power of co-option shall be used, inter alia, to ensure if possible that no more than two-thirds of the Executive Committee (other than under Sections 5.3 (c) - (g)), are of the same sex, and that there is fair representation of under represented communities in the locality, taking into account race, religion, age, disability, gender or sexual orientation and that this would create a composition of the Executive that reflects the community the local Party serves.
+[(h) The Local Party's Agent or Organiser.]
 
-5.5. The Honorary President is entitled to attend all meetings of the Executive Committee.
+5.4. The Executive Committee may co-opt up to (...) additional members, for a term expiring not later than the next following AGM.
+The power of co-option shall be used, inter alia, to ensure if possible that no more than two-thirds of the Executive Committee (other than under Sections 5.3 (d) - (h)), are of the same sex, and that there is fair representation of under-represented communities in the locality, taking into account race, religion, age, disability, gender or sexual orientation and that this would create a composition of the Executive that reflects the community the local Party serves.
+
+5.5. [The Honorary President is entitled to attend all meetings of the Executive Committee.]
 Meetings of the Executive Committee shall be open to members of the Local Party as space permits.
 
 5.6. The Executive Committee may fill any vacancy occurring among the Officers or the Ordinary Members.
 Any vacancy in the Chair shall be filled from amongst the existing Executive Committee members.
 The Secretary shall within seven days notify any change of Officers to the Regional Party and to the Chief Executive of the Federal Party.
 
-5.7. The Executive Committee may assign special responsibilities to any of its members, including duties which would otherwise pertain to one of the Officers.
-The Executive shall designate an officer to deputise for the Chair if necessary if the Chair is ever unavailable.
+[5.7. The Executive Committee may assign special responsibilities to any of its members, including duties which would otherwise pertain to one of the Officers.]
+[The Executive shall designate an officer to deputise for the Chair if necessary if the Chair is ever unavailable.]
 
 5.8. The Officers shall convene a meeting of the Executive Committee within one month after taking office.
 The Executive Committee shall meet at least quarterly and not less than four times in a year.
 The Secretary shall give at least 7 days notice of meetings to all members of the Executive Committee.
 One-third of its members shall form a quorum.
-A meeting, once properly convened, may continue without a quorum if no member present objects.
+[A meeting may continue without a quorum if no member present objects.]
 
 5.9. The Executive Committee may appoint sub-committees for any specified purpose.
-No sub-committee or Executive Committee member may take action on behalf of the Executive Committee beyond their terms of appointment.
+No subcommittee or Executive Committee member may take action on behalf of the Executive Committee beyond their terms of appointment.
 All sub-committees shall report on their activities to the Executive Committee and may include persons who are not members of the Executive Committee and may delegate authority to take actions on their behalf.
-The Executive Committee may also delegate authority to committees jointly constituted with other local parties for particular purposes.
+[The Executive Committee may also delegate authority to committees jointly constituted with other local parties for particular purposes.]
 
 5.10. In urgent circumstances the Officers may act on behalf of the Executive Committee.
 They shall report on such actions to the next meeting of the Executive Committee.
 
-### 6. Election of Officers and Executive Committee
+### 6. Election of Officers, Executive Committee and Conference Representatives
 
-6.1. The Officers and Ordinary Members shall be elected by and from members of the Local Party at the time of the Annual General Meeting.
-If an election is contested, there shall be a ballot of the members present at the AGM.
+6.1. The Officers and Ordinary Members shall be elected by and from members of the Local Party at the time of the Annual General Meeting, provided that, with the prior agreement of the Regional Party, a member of the Party who is not a member of the Local Party may be elected to the office of Treasurer.
+If an election is contested, there shall be a ballot [in which all Local Party members are sent ballot papers].
 
 6.2. The term of office of Officers and Ordinary Members shall be from the 1st January following their election until the following 31st December.
 They shall be eligible for re-election, save that the Chair shall not serve for more than three consecutive terms, and shall not be eligible for re-election as Chair for two terms after leaving Office.
 
 6.3. Nominations for election shall be invited in the notice summoning the AGM, and shall close at the AGM, but not before the reception of the Chair's and Treasurer's reports.
-They must be proposed and seconded.
+They must be proposed and seconded, and except in the case of nominations made at the AGM shall be in writing signed by the proposer, seconder and candidate.
 
-6.4. Where elections are contested, ballot papers shall be distributed at the AGM, and must be returned to the Returning Officer at the AGM.
+6.4. Where elections are contested, ballot papers shall be distributed [to all members of the Local Party within 7 days]/[at the AGM], and must be returned to the Returning Officer [within 21 days after]/[at] the AGM.
 
 6.5. No person may be elected to hold more than one Office, or may be elected to be both an Officer and an Ordinary Member.
 Elections for Officers shall be counted in the order listed in Section 5.1 and for Ordinary Members after Officers.
@@ -213,10 +196,12 @@ Any votes cast for candidates already elected to Office shall be transferred acc
 6.7. The Executive Committee shall appoint some disinterested person to act as Returning Officer.
 The Returning Officer shall be responsible for the receipt of nominations and for the preparation and distribution of ballot papers, their receipt and counting on return, and the declaration of the results.
 
-6.8. Accidental failure to despatch notice of the AGM in due time or at all to a person entitled to vote shall not invalidate an election or be treated as an irregularity, unless a substantial number of persons entitled to vote have not received notices at all or have received them too late to make it practicable to attend the meeting.
+6.8. Accidental failure to despatch notice of the AGM or a ballot paper in due time or at all to a person entitled to vote shall not invalidate an election or be treated as an irregularity, unless a substantial number of persons entitled to vote have not received notices or ballot papers at all or have received them too late to make it practicable to attend the meeting or return the ballot paper in due time by first-class post.
 
 6.9. An unsuccessful candidate who alleges that there has been or may have been an irregularity in the election may within one calendar month after the declaration of the result ask for an investigation by the Regional Party in accordance with the Party Constitution.
 Subject to any order made after such an investigation, no irregularity shall invalidate an election.
+
+6.10. The Returning Officer may extend the time for distribution and return of ballot papers where there are special circumstances making it necessary to do so.
 
 ### 7. General Meetings
 
@@ -241,22 +226,22 @@ The Executive Committee may postpone the AGM if it would conflict with a Parliam
 
 (f) to consider any motion which has been submitted by any member of the Local Party to the Secretary in time for circulation with the notice of the AGM;
 
-(g) to elect Officers and Ordinary Members of the Executive Committee.
+(g) [to receive nominations for the election of]/[to elect] Officers and Ordinary Members of the Executive Committee.
 
 7.3. The Secretary shall give all members at least 21 days written notice of the time and place of the AGM.
 Such notice shall specify all business to be conducted at the meeting.
 
 7.4. The AGM may by a two-thirds majority agree to consider urgent or important business which has arisen since notice of the AGM was given.
 
-7.5. A special General Meeting may be convened by the Officers, or by the Executive Committee; and shall, on receipt of a requisition signed by at least twenty members of the Local Party (or one-fifth (1/5th) of the membership if less), be convened by the Secretary so as to be held within 28 days from the receipt of such requisition.
+7.5. A special General Meeting may be convened by the Officers, or by the Executive Committee; and shall, on receipt of a requisition signed by at least twenty members of the Local Party (or one-fifth of the membership if less), be convened by the Secretary so as to be held within 28 days from the receipt of such requisition.
 At least 14 days written notice shall be given to all members.
 The meeting shall only consider business stated in the notice convening it.
 Failure to convene a validly requisitioned meeting within 14 days shall permit the meeting to be convened on behalf of (and at the expense of) the Local Party by any of the original requisitioners.
 In an emergency, the Officers may convene a meeting giving such notice as they consider sufficient in the circumstances.
 
-7.6. 20 members (or one-fifth (1/5th) of the membership if less), shall form a quorum at any General Meeting.
+7.6. 20 members (or one-fifth of the membership if less), shall form a quorum at any General Meeting.
 A quorum is not required to receive reports and accounts.
-A meeting may continue without a quorum if no member present objects except as provided for in sections 4.5 and 11.1.
+[A meeting may continue without a quorum if no member present objects except as provided for in Section 11.1.]
 
 7.7. Notice and minutes of all Annual and Special General Meetings shall be sent to the secretary of the Regional Party.
 
@@ -264,7 +249,7 @@ A meeting may continue without a quorum if no member present objects except as p
 Minutes shall also be kept of any meetings of the Executive Committee.
 In the absence of an Executive Committee member charged with the duty, the Meeting shall appoint a member to take minutes.
 
-### 8. Local Branches
+### [8. Local Branches
 
 8.1. The Executive Committee may authorise the setting up of Branches covering defined areas of the Local Party, provided that no branch shall be formed with less than 10 members.
 The objects of a Branch shall be to further the objects of the Local Party in the area covered by the Branch.
@@ -297,21 +282,23 @@ A Branch shall not incur any debts for which the Local Party shall be responsibl
 The Constitution shall be in the form of the Model Constitution for Branches appended to this Constitution.
 A branch may adopt a constitution which is not wholly in the model form but any such constitution, or any changes to it, shall not take effect until the Executive Committee of the Local Party accepts its conformity with the Party Constitution and with this Constitution.
 
-8.5.
+[8.5. The finances of the Branch shall be held by the Treasurer of the Local Party [as part of the funds of the Local Party] and subject to section 10 of the constitution.]
+
+[8.5.
 
 (a) The Officers of the Branch shall include a Treasurer.
 The Branch's accounting period shall be the same as that of the Local Party.
 
 (b) The Branch Treasurer shall keep, maintain for six years, and pass to his or her successor accounting records which shall be available for inspection in accordance with the Political Parties, Elections and Referendums Act 2000.
 
-(c) The Branch Treasurer shall ensure that no donation of over £200 is accepted except from a permissible donor and shall keep records and submit donations reports to the Treasurer of the Local Party.
+(c) The Branch Treasurer shall ensure that no donation of over £500 is accepted except from a permissible donor and shall keep records and submit donations reports to the Treasurer of the Local Party.
 
 (d) The Branch Treasurer shall annually produce accounts which shall be approved by the Branch Committee and shall be sent to the Treasurer of the Local Party by a date to be specified by the Treasurer of the Local Party.
 
-(e) The Branch Treasurer shall submit the accounts of the Branch together with an independent report to the Annual General Meeting.
+(e) The Branch Treasurer shall submit the accounts of the Branch together with an independent report to [the Annual General Meeting]/[a General Meeting to be held not later than (...)].
 
 (f) The Branch shall maintain one or more bank or other appropriate accounts in the name of the Branch for which the mandate for withdrawal shall require the signature of at least two Officers who shall not come solely from members of any one family.
-The Branch may maintain further accounts for the deposit of money not required for the time being, requiring the same signatures.
+The Branch may maintain further accounts for the deposit of money not required for the time being, requiring the same signatures.]
 
 8.6. The Branch may appoint a substitute representative to the Executive Committee to fill a casual vacancy, or if a representative is unable to attend a particular meeting.
 
@@ -330,25 +317,26 @@ The Branch may maintain further accounts for the deposit of money not required f
 If a Branch is dissolved or suspended, any member of the Branch may request the Regional Party to conduct an investigation.
 The Local Party shall not dissolve a Branch until the Branch has been given an opportunity to hold its own General Meeting.
 
-8.8. The funds of a Branch shall, upon dissolution, be applied in paying its debts, and any surplus shall be added to the funds of the Local Party.
+8.8. The funds of a Branch shall, upon dissolution, be applied in paying its debts, and any surplus shall be added to the funds of the Local Party.]
 
 ### 9. Candidates for and Elections to Public Office
 
 9.1. When it is necessary to select a Prospective Parliamentary Candidate, the procedure shall be as provided by the Party Constitution.
-The Executive Committee may appoint a sub-committee to carry out its duties under this procedure.
+The Executive Committee may appoint a subcommittee to carry out its duties under this procedure.
+[The electoral college shall comprise [members within the relevant constituency only]/[all Local Party members].]
 
 9.2. The Executive Committee shall seek to ensure that, so far as practicable, all seats within the Constituency on Principal Local Authorities are contested by members of the Party, unless the Executive Committee is satisfied that it is in the best interests of the Party in any case not to do so.
 
-9.3. When it is necessary to select one or more local government candidates for an electoral area, the Local Party shall hold a General Meeting at which all members who are resident in the electoral area concerned may vote, and may select any member from a list of approved candidates maintained by the Executive Committee, or may select any other member conditionally upon subsequent approval by the Executive Committee.
+9.3. When it is necessary to select one or more local government candidates for an electoral area, the [Local Party]/[Branch or if there is no Branch, the Local Party] shall hold a [General Meeting at]/[postal ballot in] which all members [who are resident in the electoral area concerned]/[of the Local Party]/[of the Branch] may vote, and may select any member from a list of approved candidates maintained by the Executive Committee, or may select any other member conditionally upon subsequent approval by the Executive Committee.
 The timetable and procedure for selection shall be agreed by the Branch Committee and the Executive Committee, or where there is no Branch by the Executive Committee.
 
-9.4. In any electoral area, in which the eligible electorate for voting in the selection does not exceed 10, the electorate shall be expanded to constitute the members living in the electoral area plus the Branch Committee or, if there is no Branch, the Executive Committee.
+[9.4. In any electoral area, in which the eligible electorate for voting in the selection does not exceed 10, the electorate shall be expanded to constitute the members living in the electoral area plus the Branch Committee or, if there is no Branch, the Executive Committee.]
 
-9.5. In any case in which time does not permit the holding of a General Meeting the Executive Committee may select the candidate.
+9.5. In any case in which time does not permit the holding of a [General Meeting]/[postal ballot] the [Branch Committee, or if there is no Branch the Executive Committee]/[the Executive Committee] may select the candidate.
 
 9.6. Where a Principal Local Authority covers more than one constituency the Executive Committees of the Local Parties concerned may agree to form appropriate joint arrangements to co-ordinate candidate approval and selection, campaigning and publicity and be responsible for the formulation of policy on that Authority.
 
-9.7. In any parish or town council elections, the committee of the relevant Branch, or if there is no Branch the Executive Committee shall vary the provisions of Sections 9.2 to 9.5 above as appropriate.
+[9.7. In any parish or town council elections, the committee of the relevant Branch, or if there is no Branch the Executive Committee shall vary the provisions of Sections 9.2 to 9.5 above as appropriate.]
 
 9.8. A Delegated Nominating Officer will be appointed by the Party's Nominating Officer.
 The Delegated Nominating Officer shall act in accordance with the Rules made by the Party for Delegated Nominating Officers.
@@ -365,16 +353,21 @@ The Delegated Nominating Officer shall act in accordance with the Rules made by 
 
 10.2. The Treasurer shall keep, maintain for six years, and pass to his or her successor accounting records which shall be available for inspection in accordance with the Political Parties, Elections and Referendums Act 2000.
 
-10.3. The Treasurer shall ensure that no donation of over £200 is accepted except from a permissible donor and shall keep records and submit donations reports to the Executive Committee and to Chief Executive of the Federal Party.
+10.3. The Treasurer shall ensure that no donation of over £500 is accepted except from a permissible donor and shall keep records and submit donations reports to the Executive Committee and to Chief Executive of the Federal Party.
 
-10.4. The Treasurer shall annually produce accounts which shall be approved by the Executive Committee at a meeting held no later than March each year and if required by the Political Parties, Elections & Referendums Act 2000 shall be audited and submitted to the Electoral Commission.
+10.4. The Treasurer shall annually produce accounts which shall be approved by the Executive Committee and if required by the Political Parties, Elections & Referendums Act 2000 shall be audited and submitted to the Electoral Commission.
 
-10.5. The Treasurer shall submit such approved accounts of the Local Party together with an independent report to a General Meeting which shall be held no later than March each year.
+10.5. The Treasurer shall submit the accounts of the Local Party together with an independent report to a General Meeting [which shall be held not later than (...) in each year].
 
 10.6. A copy of the annual accounts shall be sent to the Treasurer of the Regional Party and to the Chief Executive of the Federal Party.
 
-10.7. The Local Party shall maintain one or more bank or other appropriate accounts in the name of the Local Party for which the mandate for withdrawal shall require the signature of at least two Officers who shall not come solely from members of any one family.
+10.7.
+
+(a) The Local Party shall maintain one or more bank or other appropriate accounts in the name of the Local Party for which the mandate for withdrawal shall require the signature of at least two Officers who shall not come solely from members of any one family.
 The Local Party may maintain further accounts for the deposit of money not required for the time being, requiring the same signatures.
+
+(b) The Local Party may take advantage of electronic banking facilities if they are provided by its bankers as long as appropriate safeguards are put in place by the Executive Committee to agree expenditure and cash movements both at Executive meetings and by a minimum of two officers in between meetings in advance of such expenditure or movements taking place.
+Where such action is taken between meetings it will be reported back to the next Executive meeting.
 
 10.8. If the Local Party fails by 15th January to notify the Chief Executive of the Federal Party of the appointment of a Chair and a Treasurer the Local Party shall automatically be suspended.
 
@@ -391,7 +384,7 @@ Any amendment to this Constitution shall be subject to approval by the Regional 
 11.4. One copy of the Constitution shall be deposited with the Secretary of the Regional Party; and one shall be kept with the minute book of the Local Party.
 Any member shall be provided with a copy of the Constitution on request.
 
-11.5. In the event of any question of interpretation arising, or any question on which this Constitution is silent, the Executive Committee shall have power to act according to its interpretation of the Constitution, or at its discretion, subject to Article 8 of the Constitution of the Liberal Democrats in England and Article 14 of the Constitution of the Federal Party.
+11.5. In the event of any question of interpretation arising, or any question on which this Constitution is silent, the Executive Committee shall have power to act according to its interpretation of the Constitution, or at its discretion, subject to Article 9 of the Constitution of the Liberal Democrats in England and Article 22 of the Constitution of the Federal Party.
 
 11.6. No word or construction in this Constitution shall be taken to imply any discrimination whatsoever with regard to sex, race, colour, creed, age, disability, sexual orientation or any other ground other than political belief or practice.
 
